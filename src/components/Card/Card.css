@@ -14,10 +14,8 @@
 }
 
 .container {
-    min-height: 232px;
-    max-height: 500px;
+    height: 232px;
     width: 350px;
-    min-width: 300px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
